@@ -12,7 +12,6 @@ for i in lottery:
     lottery_list.append(i.text)
 print(lottery_list)
 
-
 root = tk.Tk()
 root.title("Lottery")
 root.geometry("300x200")
